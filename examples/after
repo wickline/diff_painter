@@ -1,0 +1,23 @@
+Here is a line of text.
+
+Here is a line of text to which something is added.
+
+Here is a line of text from which is removed.
+
+This line has one thing added and removed.
+
+This line has whitespace added.
+
+This line haswhitespaceremoved.
+
+This is a three-line block tweak.
+This is a three-line block tweak.
+This is a three-line block tweak.
+
+This is a block edit, but since a row is deleted, it does not color like one.
+This is a block edit, but since a row is deleted, it does not color like one.
+This is a block edit, but since a row is deleted, it does not color like one.
+
+This is a block edit, but since a row is inserted, it does not color like one.
+This is a block edit, but since a row is inserted, it does not color like one.
+This is a block edit, but since a row is inserted, it does not color like one.
